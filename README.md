@@ -85,9 +85,11 @@ The division method for binary numbers is similar to that of the decimal number 
 ## Get the bit at a specific position
 To find the bit at position i in a given number N, you can perform a bitwise AND operation between N and 2 raised to the power of i (represented as (1 << i)). This operation checks whether the bit at position i is set or unset. If the resulting value is 1, then the bit at position i is set. Otherwise, it is unset.
 
+```
 bool getBit(int num, int i)
 {
     // Return true if the bit is
     // set. Otherwise, return false
     return ((num & (1 << i)) != 0);
 }
+```
