@@ -13,3 +13,13 @@ The binary number  (a<sub>k</sub>a<sub>k-1</sub>....a<sub>1</sub>a<sub>0</sub>
 | ^ | Bitwise XOR: The bitwise exclusive OR (XOR) operator compares each bit of its first operand with the corresponding bit of its second operand. If one bit is 0 and the other bit is 1, the corresponding result bit is set to 1. Otherwise, the corresponding result bit is set to 0. |
 | << | Left shift: Shifts a number to the left by appending zero digits. A left shift by k represents a multiplication by  2^k. |
 | >> | Right shift: Shifts a number to the right by removing the last few binary digits of the number. Each shift by one represents an integer division by 2, so a right shift by k represents an integer division by 2^k. |
+
+## Get the bit at a specific position
+To find the bit at position i in a given number N, you can perform a bitwise AND operation between N and 2 raised to the power of i (represented as (1 << i)). This operation checks whether the bit at position i is set or unset. If the resulting value is 1, then the bit at position i is set. Otherwise, it is unset.
+
+bool getBit(int num, int i)
+{
+    // Return true if the bit is
+    // set. Otherwise, return false
+    return ((num & (1 << i)) != 0);
+}
