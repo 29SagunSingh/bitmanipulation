@@ -56,7 +56,21 @@ The result of the subtraction of two binary numbers is also a binary number. To 
 The multiplication process of binary numbers is similar to the multiplication of decimal numbers. The rules for multiplying any two binary numbers are given in the table.
 ![image](https://github.com/29SagunSingh/bitmanipulation/assets/143775654/f3ea558b-af45-4e05-b1d2-a2cca3d9e375)
 
+#### Binary Division
+The division method for binary numbers is similar to that of the decimal number division method.
+###### Example: Divide (101101)<sub>2</sub> by (110)<sub>2</sub>
+![image](https://github.com/29SagunSingh/bitmanipulation/assets/143775654/f0553586-9165-4c10-9e9d-622f7463dd14)
 
+### 1’s and 2’s Complement of a Binary Number
+•1’s Complement of a Binary Number is obtained by inverting the digits of the binary number.
+###### Example: Find the 1’s complement of (10011)<sub>2</sub>.
+![image](https://github.com/29SagunSingh/bitmanipulation/assets/143775654/5b0095e6-1295-4f7b-a352-2e31766c8d2f)
+
+•2’s Complement of a Binary Number is obtained by inverting the digits of the binary number and then by adding 1 to the least significant bit.
+###### Find the 2’s complement of (1011)<sub>2</sub>.
+![image](https://github.com/29SagunSingh/bitmanipulation/assets/143775654/0451cd4d-d0d1-4e37-ae72-6741463d12a7)
+
+## BITWISE OPERATORS
 
 | Operator | Name and Function of Operator | 
 | -------- | ----------------------------- |
@@ -66,6 +80,7 @@ The multiplication process of binary numbers is similar to the multiplication of
 | ^ | Bitwise XOR: The bitwise exclusive OR (XOR) operator compares each bit of its first operand with the corresponding bit of its second operand. If one bit is 0 and the other bit is 1, the corresponding result bit is set to 1. Otherwise, the corresponding result bit is set to 0. |
 | << | Left shift: Shifts a number to the left by appending zero digits. A left shift by k represents a multiplication by  2^k. |
 | >> | Right shift: Shifts a number to the right by removing the last few binary digits of the number. Each shift by one represents an integer division by 2, so a right shift by k represents an integer division by 2^k. |
+
 
 ## Get the bit at a specific position
 To find the bit at position i in a given number N, you can perform a bitwise AND operation between N and 2 raised to the power of i (represented as (1 << i)). This operation checks whether the bit at position i is set or unset. If the resulting value is 1, then the bit at position i is set. Otherwise, it is unset.
