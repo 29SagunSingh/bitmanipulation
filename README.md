@@ -241,16 +241,20 @@ In competitive programming or in general, some problems seem difficult but can b
 ![image](https://github.com/29SagunSingh/bitmanipulation/assets/143775654/b00219fb-6a6d-4c58-8aee-11a207b320dc)
 
 ### Playing with Kth bit:
-1) Turn Off kth bit in a number
+1) Turn Off kth bit in a number:
+
    ![image](https://github.com/29SagunSingh/bitmanipulation/assets/143775654/b6a368d9-73f8-4f0d-ab0f-05b0fef40008)
 
-2) Turn On kth bit in a number
+3) Turn On kth bit in a number:
+
    ![image](https://github.com/29SagunSingh/bitmanipulation/assets/143775654/04154241-1c9d-4e29-aa1d-cf73cf29e099)
 
-3) Check if kth bit is set for a number
+5) Check if kth bit is set for a number:
+   
    ![image](https://github.com/29SagunSingh/bitmanipulation/assets/143775654/5abb8caf-3558-4933-a374-8f9e6c9c16dd)
 
-4) Toggle the kth bit
+7) Toggle the kth bit:
+   
    ![image](https://github.com/29SagunSingh/bitmanipulation/assets/143775654/984dcd9a-24b3-42dd-89dd-21a201cd7230)
 
 
