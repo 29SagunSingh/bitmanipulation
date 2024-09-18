@@ -260,56 +260,39 @@ In competitive programming or in general, some problems seem difficult but can b
 
 # Questions for Practice:
 ## Basic Level Questions
-1. Check whether K-th bit is set or not
-https://www.naukri.com/code360/problems/check-whether-k-th-bit-is-set-or-not_5026446?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+1. [Check whether K-th bit is set or not](https://www.naukri.com/code360/problems/check-whether-k-th-bit-is-set-or-not_5026446?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-2. Check if the number is odd or not 
-https://www.naukri.com/code360/problems/odd-even_7993579?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+2. [Check if the number is odd or not](https://www.naukri.com/code360/problems/odd-even_7993579?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-3. Check if a number is power of 2 or not
-https://www.naukri.com/code360/problems/power-of-two_893061?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+3. [Check if a number is power of 2 or not](https://www.naukri.com/code360/problems/power-of-two_893061?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-4. Count the number of set bits
-https://www.naukri.com/code360/problems/count-total-set-bits_784?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+4. [Count the number of set bits](https://www.naukri.com/code360/problems/count-total-set-bits_784?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-5. Set/Unset the rightmost unset bit
-https://www.naukri.com/code360/problems/set-the-rightmost-unset-bit_8160456?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+5. [Set/Unset the rightmost unset bit](https://www.naukri.com/code360/problems/set-the-rightmost-unset-bit_8160456?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-6. Swap two numbers
-https://www.naukri.com/code360/problems/swap-two-numbers_1380853?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+6. [Swap two numbers](https://www.naukri.com/code360/problems/swap-two-numbers_1380853?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-7. Divide two integers without using multiplication, division and mod operator
-https://www.naukri.com/code360/problems/-divide-two-integers_1112617?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+7. [Divide two integers without using multiplication, division and mod operator](https://www.naukri.com/code360/problems/-divide-two-integers_1112617?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
 ## Interview Problems : 
-1. Count number of bits to be flipped to convert A to B
-https://www.naukri.com/code360/problems/flip-bits_8160405?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+1. [Count number of bits to be flipped to convert A to B](https://www.naukri.com/code360/problems/flip-bits_8160405?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-2. Find the number that appears odd number of times
-https://www.naukri.com/code360/problems/one-odd-occurring_4606074?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+2. [Find the number that appears odd number of times](https://www.naukri.com/code360/problems/one-odd-occurring_4606074?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-3. Power Set 
-https://www.naukri.com/code360/problems/subsequences-of-string_985087?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+3. [Power Set](https://www.naukri.com/code360/problems/subsequences-of-string_985087?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-4. Find xor of numbers from L to R
-https://www.naukri.com/code360/problems/l-to-r-xor_8160412?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+4. [Find xor of numbers from L to R](https://www.naukri.com/code360/problems/l-to-r-xor_8160412?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-5. Find the two numbers appearing odd number of times
-https://www.naukri.com/code360/problems/two-numbers-with-odd-occurrences_8160466?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+5. [Find the two numbers appearing odd number of times](https://www.naukri.com/code360/problems/two-numbers-with-odd-occurrences_8160466?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
 ## Advanced Maths : 
-1. Print Prime Factors of a Number
-https://www.naukri.com/code360/problems/prime-factorisation_1760849?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+1. [Print Prime Factors of a Number](https://www.naukri.com/code360/problems/prime-factorisation_1760849?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-2. All Divisors of a Number
-https://www.naukri.com/code360/problems/print-all-divisors-of-a-number_1164188?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+2. [All Divisors of a Number](https://www.naukri.com/code360/problems/print-all-divisors-of-a-number_1164188?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-3. Sieve of Eratosthenes
-https://www.naukri.com/code360/problems/prime-factorisation_1760849?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+3. [Sieve of Eratosthenes](https://www.naukri.com/code360/problems/prime-factorisation_1760849?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-4. Find Prime Factorizaton of a number using Sieve 
-https://www.naukri.com/code360/problems/prime-factorisation_1760849?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+4. [Find Prime Factorizaton of a number using Sieve](https://www.naukri.com/code360/problems/prime-factorisation_1760849?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-5. Power(n, x)
-https://www.naukri.com/code360/problems/power-of-numbers_8157729?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+5. [Power(n, x)](https://www.naukri.com/code360/problems/power-of-numbers_8157729?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
